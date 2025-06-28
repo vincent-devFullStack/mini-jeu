@@ -31,8 +31,7 @@ Plus tu es rapide, plus tu marques de points !
 
 ## 📷 Aperçu
 
-![screenshot du mini jeu](https://mini-jeu-phi.vercel.app/preview.jpg)  
-*(à remplacer si tu n’as pas encore de capture d’écran)*
+![screenshot du mini jeu]([https://mini-jeu-phi.vercel.app/preview.jpg](https://mini-jeu-phi.vercel.app/))  
 
 ---
 
