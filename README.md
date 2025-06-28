@@ -29,12 +29,6 @@ Plus tu es rapide, plus tu marques de points !
 
 ---
 
-## 📷 Aperçu
-
-![screenshot du mini jeu]([https://mini-jeu-phi.vercel.app/preview.jpg](https://mini-jeu-phi.vercel.app/))  
-
----
-
 ## 📂 Structure du projet
 
 mini-jeu/
